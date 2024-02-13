@@ -1,4 +1,6 @@
 # Inventory-Management-System
+Author:Tirth Chokshi
+<br>
 This Repository is for my project of Inventory Management system
 <br>
 you can access my code in the file in the repository.
